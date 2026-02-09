@@ -1,4 +1,4 @@
-def multiply():
+def my1_multiply():
 
     num1 = int(input("Enter your first number to multiply: "))
     num2 = int(input("Enter your second number to multiply: "))
