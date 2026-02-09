@@ -29,7 +29,7 @@ def prompt():
         choice = int(input("Enter your choice: "))
 
 
-def addition():
+def adding():
 
     num1 = int(input("Enter your first number to add: "))
     num2 = int(input("Enter your second number to add: "))
